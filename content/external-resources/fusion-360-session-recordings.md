@@ -1,11 +1,11 @@
 ---
 content_type: external-resource
-external_url: https://github.com/andyeske/How-to-CAD-Almost-Anything
+external_url: https://www.youtube.com/playlist?list=PLxiALKuvAodfboaROQrveakYydxY2DKEq
 has_external_license_warning: true
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 status: valid
-title: How to CAD Almost Anything with SolidWorks
-uid: 16babc5f-0e62-460a-b4ba-9a58691cc546
+title: Fusion 360 Session Recordings
+uid: b4a6a168-fba3-48e8-bb28-05eb9e011a8b
 url_status_code: 200
 wayback_url: ''
 ---
